@@ -1,3 +1,3 @@
 # hello-world
 
-I am wilsonmath4j and I am trying to learn a github. I will learn it. I will I will.
+It is now 2020, and the world is coming apart at the seams. I am, apparently, still trying to learn github.
